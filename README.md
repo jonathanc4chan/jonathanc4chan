@@ -61,7 +61,7 @@
 
 </div>
   <div align="center">
-  <img src="https://github.com/Re-21-12/Re-21-12/blob/main/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/jonathanc4chan/jonathanc4chan/blob/main/github-contribution-grid-snake.svg" alt="snake">
   </div>
   </div>
   </center>
