@@ -3,7 +3,7 @@
 <div align="justify"> 
   <h1 align="center"><b>Bienvenido</b></h1>
 
-![image](https://github.com/Re-21-12/Re-21-12/assets/104967229/8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae)
+![image](https://github.com/jonathanc4chan/assets/104967229/8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae)
 
   
   <hr/>
