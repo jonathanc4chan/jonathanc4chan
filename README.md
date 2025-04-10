@@ -3,7 +3,7 @@
 <div align="justify"> 
   <h1 align="center"><b>Bienvenido</b></h1>
 
-![image](https://github.com/jonathanc4chan/assets/104967229/8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae)
+![image](https://github.com/jonathanc4chan/jonathanc4chan/blob/main/320980556-8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae.png)
 
   
   <hr/>
